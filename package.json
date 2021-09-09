@@ -1,0 +1,25 @@
+{
+  "name": "design_patterns_typescript",
+  "version": "1.0.0",
+  "description": "A project that shows some examples of implementation of design patterns in TypeScript",
+  "main": "",
+  "scripts": {
+    "design-pattern": "ts-node ./src/$npm_config_name/index.ts"
+  },
+  "keywords": [
+    "TypeScript",
+    "JavaScript",
+    "Design patterns"
+  ],
+  "author": "Antonio Emiko Ochoa Adame",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.2",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
